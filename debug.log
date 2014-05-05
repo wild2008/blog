@@ -1,0 +1,25 @@
+date: 2014-05-04 20:27:52.756
+argv: node C:\Users\Administrator\AppData\Roaming\npm\node_modules\hexo\bin\hexo deploy
+os: Windows_NT 6.1.7601 win32 ia32
+version:
+  hexo: 2.5.6
+  http_parser: 1.0
+  node: 0.10.28
+  v8: 3.14.5.9
+  ares: 1.9.0-DEV
+  uv: 0.10.27
+  zlib: 1.2.3
+  modules: 11
+  openssl: 1.0.1g
+---
+
+[debug] 20:27:52.586 Config file loaded
+[debug] 20:27:52.589 Version info checked successfully
+[debug] 20:27:52.635 Loading database.
+[debug] 20:27:52.683 Script load successfully: fancybox.js
+[info] 20:27:52.684 Start deploying: github
+[info] 20:27:52.690 Setting up GitHub deployment...
+[error] 20:27:52.697 Error: spawn ENOENT
+Error: spawn ENOENT
+    at errnoException (child_process.js:998:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:789:34)
