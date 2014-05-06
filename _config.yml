@@ -103,5 +103,6 @@ stylus:
 deploy:
   type: github
   # repository: https://github.com/wild2008/wild2008.github.io.git
-  repository: git@github.com:wild2008/wild2008.github.io.git
-  branch: master
+  #repository: https://github.com/wild2008/wild2008.github.io.git
+  repository: https://github.com/wild2008/blog.git  
+  branch: gh-pages
